@@ -1,0 +1,11 @@
+Level 1
+
+When you program, you are essentially giving
+the computer commands to do something, or
+you are giving the comuter data to do 
+somthing with. For now you only have the most
+basic control over the computer, and can only 
+communicate with direct instructions. 
+
+Please enter one of the following commands:
+MoveU, MoveD, MoveL, or MoveR

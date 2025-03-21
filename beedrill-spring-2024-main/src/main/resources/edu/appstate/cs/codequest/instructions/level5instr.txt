@@ -1,0 +1,5 @@
+Deep within the data center lies the heart of the system, 
+a maze of pathways and deadends. To reach the reboot point, 
+you must navigate through the system meticulously using what
+you've learned. 
+
